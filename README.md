@@ -103,13 +103,6 @@ results = milvus.search(query_embedding)
 response = mistral.generate_response(query, context=results)
 ```
 
-## 🧪 Testing
-
-Run the test suite:
-```bash
-python -m unittest discover tests
-```
-
 The test suite includes:
 - PDF processing tests
 - Text chunking tests
