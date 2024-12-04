@@ -137,16 +137,8 @@ embedding:
   batch_size: 32
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
