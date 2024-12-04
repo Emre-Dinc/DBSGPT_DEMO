@@ -1,0 +1,23 @@
+{
+  "content": "Q: Where can I find my timetable for my classes?\nA: Once registered, you should use the Outlook calendar in your student email account to see your personal timetable, by logging into www.mydbs.ie. You can also download the Outlook App in order to view your personal timetable on your own device. Instructions for using the Outlook App can be found in the FAQ section of the Service Desk https://students.dbs.ie/dashboard/SCCM Generic timetables can also be viewed using the following link tts.dbs.ie. Any issues with timetables should be flagged by logging a ticket HERE",
+  "metadata": {
+    "chunk_index": 7,
+    "source_file": "FAQs from Students at Dublin Business School.pdf",
+    "document_type": "faq",
+    "question": "Where can I find my timetable for my classes?",
+    "section": "General Queries",
+    "category": "academic",
+    "extracted_info": {
+      "urls": [
+        "www.mydbs.ie",
+        "https://students.dbs.ie/dashboard/SCCM",
+        "tts.dbs.ie"
+      ],
+      "emails": [],
+      "phone_numbers": [],
+      "locations": [],
+      "deadlines": [],
+      "fees": []
+    }
+  }
+}

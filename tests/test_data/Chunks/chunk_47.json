@@ -1,0 +1,26 @@
+{
+  "content": "Q: Which Doctor or GP should I visit?\nA: DBS has partnered with Dame Street Medical, as our chosen student medical centre should students require a doctor's appointment. As many students may require a GP whilst studying, we believe this partnership will be beneficial to students due to its close proximity to the DBS campus. Dame Street Medical is now taking on new patients and registering is extremely easy. To register simply book an appointment to see one of their doctors. To book an appointment: Call (01 6790754) or email damestreetmedicalcentre@gmail.com Read more here.",
+  "metadata": {
+    "chunk_index": 47,
+    "source_file": "FAQs from Students at Dublin Business School.pdf",
+    "document_type": "faq",
+    "question": "Which Doctor or GP should I visit?",
+    "section": "Medical Information",
+    "category": "facilities",
+    "extracted_info": {
+      "urls": [],
+      "emails": [
+        "damestreetmedicalcentre@gmail.com"
+      ],
+      "phone_numbers": [
+        "01 6790754"
+      ],
+      "locations": [
+        "Street Medical",
+        "Street Medical is now taking on new patients and registering is extremely easy"
+      ],
+      "deadlines": [],
+      "fees": []
+    }
+  }
+}

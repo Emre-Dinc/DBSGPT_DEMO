@@ -1,0 +1,26 @@
+{
+  "content": "Q: Where can I park my car?\nA: Parking is available at Drury Street Car Park. Daytime Rate - Max \u20ac10 - \u20ac2.50 per hour Monday - Saturday 7:30am to 1am Evening Rate - \u20ac3 Monday to Saturday 4:30pm to 1am Sunday Rate - Max \u20ac10 11am to 9pm To avail of these rates you must validate your ticket, by punching a hole in the ticket in the machine located at our Security Desks. Payment can then be made at the ticket machines in the car park.",
+  "metadata": {
+    "chunk_index": 28,
+    "source_file": "FAQs from Students at Dublin Business School.pdf",
+    "document_type": "faq",
+    "question": "Where can I park my car?",
+    "section": "General Queries",
+    "category": "facilities",
+    "extracted_info": {
+      "urls": [],
+      "emails": [],
+      "phone_numbers": [],
+      "locations": [
+        "Street Car Park"
+      ],
+      "deadlines": [],
+      "fees": [
+        "\u20ac10",
+        "\u20ac2.50",
+        "\u20ac3",
+        "\u20ac10"
+      ]
+    }
+  }
+}

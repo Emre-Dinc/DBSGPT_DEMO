@@ -1,0 +1,21 @@
+{
+  "content": "Q: If you participated in a class online and your attendance record wasn\u2019t updated, please?\nA: log a ticket via https://students.dbs.ie/dashboard/SCCM with all the details of the online class (module, date and time, lecturer). We will check the reports to confirm if you were in class, and amend your attendance accordingly.",
+  "metadata": {
+    "chunk_index": 17,
+    "source_file": "FAQs from Students at Dublin Business School.pdf",
+    "document_type": "faq",
+    "question": "If you participated in a class online and your attendance record wasn\u2019t updated, please?",
+    "section": "General Queries",
+    "category": "academic",
+    "extracted_info": {
+      "urls": [
+        "https://students.dbs.ie/dashboard/SCCM"
+      ],
+      "emails": [],
+      "phone_numbers": [],
+      "locations": [],
+      "deadlines": [],
+      "fees": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "content": "Q: I am having some problems accessing Moodle.?\nA: Please phone IT: 01-4177-573",
+  "metadata": {
+    "chunk_index": 26,
+    "source_file": "FAQs from Students at Dublin Business School.pdf",
+    "document_type": "faq",
+    "question": "I am having some problems accessing Moodle.?",
+    "section": "General Queries",
+    "category": "technical",
+    "extracted_info": {
+      "urls": [],
+      "emails": [],
+      "phone_numbers": [
+        "01-4177-573"
+      ],
+      "locations": [],
+      "deadlines": [],
+      "fees": []
+    }
+  }
+}

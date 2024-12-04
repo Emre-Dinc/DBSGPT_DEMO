@@ -1,0 +1,23 @@
+{
+  "content": "Q: I have lost my Student Card, where do I get a new one?\nA: Please log a ticket here to request a replacement Student Card in the event you have lost or misplaced it. Please note there is a fee of \u20ac10 for the replacement of lost cards. Attendance Monitoring Attendance is monitored by scanning your student card against the card readers in the classroom before class.",
+  "metadata": {
+    "chunk_index": 15,
+    "source_file": "FAQs from Students at Dublin Business School.pdf",
+    "document_type": "faq",
+    "question": "I have lost my Student Card, where do I get a new one?",
+    "section": "General Queries",
+    "category": "academic",
+    "extracted_info": {
+      "urls": [],
+      "emails": [],
+      "phone_numbers": [],
+      "locations": [
+        "room before class"
+      ],
+      "deadlines": [],
+      "fees": [
+        "\u20ac10"
+      ]
+    }
+  }
+}
