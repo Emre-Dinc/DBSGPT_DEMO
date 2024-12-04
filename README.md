@@ -1,6 +1,6 @@
 # School Knowledge Base Chatbot
 
-A sophisticated chatbot system designed to handle school-related queries using the Mistral LLM model and Milvus vector database. The system processes PDF documents (such as FAQs, handbooks, etc.), chunks them intelligently, and provides accurate responses to student queries.
+A  chatbot system designed to handle school-related queries using the Mistral LLM model and Milvus vector database. The system processes PDF documents (such as FAQs, handbooks, etc.), chunks them intelligently, and provides accurate responses to student queries.
 
 ## 🌟 Features
 
