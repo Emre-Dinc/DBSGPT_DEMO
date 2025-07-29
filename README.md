@@ -1,7 +1,7 @@
 # School Knowledge Base Chatbot
 
 A  chatbot system designed to handle school-related queries using the Mistral LLM model and Milvus vector database. The system processes PDF documents (such as FAQs, handbooks, etc.), chunks them intelligently, and provides accurate responses to student queries.This system implements RAG (Retrieval Augmented Generation) architecture.
-## 🌟 Features
+##  Features
 
 - PDF document processing and intelligent text chunking
 - Vector similarity search using Milvus
@@ -11,25 +11,15 @@ A  chatbot system designed to handle school-related queries using the Mistral LL
 - Metadata extraction and categorization
 - Question-Answer pair extraction from documents
 
-## 🛠️ Technologies Used
 
-- Python 3.x
-- Mistral 9B Instruct Model
-- Milvus Vector Database
-- Sentence Transformers (all-MiniLM-L6-v2)
-- PyMilvus
-- ctransformers
-- pdfplumber
-- Other supporting libraries (see requirements.txt)
-
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.x
 - Milvus server running locally or remotely
 - Sufficient storage for model weights and document embeddings
 - GPU recommended for better performance
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -130,10 +120,3 @@ embedding:
 ```
 
 
-
-
-## 🙏 Acknowledgments
-
-- Mistral AI for the language model
-- Milvus team for the vector database
-- Sentence Transformers team for the embedding models
